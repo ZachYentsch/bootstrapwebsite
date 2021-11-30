@@ -2,6 +2,9 @@
    --primary: rgb(17, 38, 616);
 }
 
+body{
+    margin: 0px;
+}
 header{
     background-color: var(--primary);
     text-align: center;
