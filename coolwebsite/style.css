@@ -9,3 +9,14 @@ header{
     padding-top: 1.5em;
     justify-content: end;
 }
+
+.left-column{
+    margin: 3em 0 0 .5em;
+    text-align: left;
+    width: 30%;
+    font-size: 20px;
+}
+
+.center-column{
+    
+}
