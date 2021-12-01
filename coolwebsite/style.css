@@ -15,9 +15,9 @@ header{
 
 .left-column{
     margin: 3em 0 0 .5em;
-    text-align: left;
-    width: 20%;
+    width: 15%;
     font-size: 20px;
+    text-align: center;
 }
 
 .center-column{
@@ -38,13 +38,17 @@ img{
     width: 7em;
     height: 7em;
 position: relative;
-
-}
-.d-flex{
-    display: flex;
 }
 
 footer{
     background-color: var(--primary);
     height: 30vh;
 }
+
+/*utility class*/
+/*start Region*/
+.d-flex{
+    display: flex;
+}
+
+
